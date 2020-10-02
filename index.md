@@ -3,8 +3,8 @@
 Контакты:
 
 * Email: meln.a.a@yandex.ru 
-* Тел.: +7 (925) 768-22-18 
-* GitHub: https://github.com/MelnikovAleksei 
+* Tel.: +7 (925) 768-22-18 
+* [GitHub](https://github.com/MelnikovAleksei) 
 * [Facebook](https://www.facebook.com/meln.aleksei) 
 
 
