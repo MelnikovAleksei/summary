@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+# Мельников Алексей Алексеевич
 
-You can use the [editor on GitHub](https://github.com/MelnikovAleksei/summary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Контакты:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Email: meln.a.a@yandex.ru 
+* Тел.: +7 (925) 768-22-18 
+* GitHub: https://github.com/MelnikovAleksei 
+* [Facebook](https://www.facebook.com/meln.aleksei) 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Junior web developer 
 
-```markdown
-Syntax highlighted code block
+*[Портфолио на GitHub](https://github.com/MelnikovAleksei)* 
 
-# Header 1
-## Header 2
-### Header 3
+### Навыки (технологии, которыми я владею на данный момент): 
 
-- Bulleted
-- List
+* Semantic HTML
+* Flexbox, Grid Layout
+* Positioning Elements
+* Animation and Transform using CSS
+* BEM Methodology
+* File Structure and File Paths (Nested BEM)
+* Git
+* JavaScript (OOP, DOM API)
+* Client-side form validation
+* Webpack 
 
-1. Numbered
-2. List
+### Навыки (технологии, с которыми я буду работать в будущем):
 
-**Bold** and _Italic_ and `Code` text
+* Reactjs
+* Expressjs
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Опыт работы: 
 
-### Jekyll Themes
+* *Май 2020 — по настоящее время:* 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MelnikovAleksei/summary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  ### Яндекс.Практикум (студент):
+  
+    Во время своей учебы я реализовал 8 проектных работ на JavaScript, CSS, HTML. По каждой проектной работе было проведено код-ревью командой Яндекс.Практикум. Во время           выполнения учебных проектных работ я изучил в теории и применил на практике:
+    
+    * Семантический код HTML;
+    * Формы и их валидация на стороне клиента;
+    * Flexbox, Grid Layout, позиционирование элементов, анимации и трансформации посредством CSS;
+    * BEM методология, Nested BEM;
+    * JavaScript, DOM API, ООП в интерфейсах;
+    * Система контроля версий Git;
+    * Сборка проекта средствами Webpack
 
-### Support or Contact
+Проектная работа #4-8 "Mesto" - сайт, на котором пользователь может добавлять и удалять фотографии, ставить им «лайк». [Ссылка на GitHub](https://github.com/MelnikovAleksei/mesto) 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Проектная работа #2-3 "Russian Travel" - одностраничный сайт с адаптивным дизайном про российский внутренний туризм. [Ссылка на GitHub](https://github.com/MelnikovAleksei/russian-travel) 
+
+Проектная работа #1 "How to learn" - типовой одностраничный сайт про методики обучения. [Ссылка на GitHub](https://github.com/MelnikovAleksei/how-to-learn) 
+
+* *Май 2016 — по настоящее время:* 
+
+  ### ГБУК г. Москва ЦБС ЮВАО Библиотека 129 - Медиацентр (библиотекарь): 
+  
+    Просветительская деятельность в сфере киноведения, фотографии, литературы и компьютерных технологий. Работа по организации волонтерской деятельности. 
+
+* *до мая 2016:* 
+
+  ### Медицинский лабораторный техник (фельдшер-лаборант): 
+    
+    * Лаборатория электронной микроскопии и иммуногистохимии МГМУ им. И. М. Сеченова 
+    * Лаборатория гистологии и иммуногистохимии Европейский медицинский центр 
+  
+### Образование: 
+
+  *Неоконченное высшее образование* 
+  
+  * 2021 - Яндекс.Практикум. Факультет "Веб-разработка" 
+  
+  * 2020 - MDN web docs. Самостоятельные занятия по курсу "Learn web development" 
+  
+  * 2019 - CODECADEMY. Интенсив "Build websites from Scratch" 
+  
+  * 2018 - Московская школа кино. Интенсив "История кино" 
+  
+  * 2015 - Первый Московский государственный медицинский университет им. И.М. Сеченова. Факультет "Лечебное дело" 
+  
+  * 2013 - Медицинский колледж РАМН. Факультет "Лабораторная диагностика" 
