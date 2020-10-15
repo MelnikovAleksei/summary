@@ -9,7 +9,6 @@
 * [GitHub](https://github.com/MelnikovAleksei) 
 * [Facebook](https://www.facebook.com/meln.aleksei) 
 
-
 ## Junior web developer 
 
 *[Портфолио на GitHub](https://github.com/MelnikovAleksei)* 
@@ -85,3 +84,5 @@
   * 2015 - Первый Московский государственный медицинский университет им. И.М. Сеченова. Факультет *"Лечебное дело"* 
   
   * 2013 - Медицинский колледж РАМН. Факультет *"Лабораторная диагностика"* 
+  
+  **[Скачать резюме в формате PDF](https://drive.google.com/file/d/1hjeottnINEu6HR6r-WsYMkdp-GQYxhoc/view?usp=sharing)** 
