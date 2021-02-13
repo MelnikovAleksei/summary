@@ -1,6 +1,6 @@
 # Мельников Алексей Алексеевич
 
-**[Скачать резюме в формате PDF](https://drive.google.com/file/d/1N-dIxd61koHlAkZ8O9nbPmbjygShGY1F/view?usp=sharing)** 
+**[Скачать резюме в формате PDF](https://drive.google.com/file/d/16a778XwI0_FC5OduRfCR7fcMDDaYvzQn/view?usp=drivesdk)** 
 
 Москва, 27 лет
 
